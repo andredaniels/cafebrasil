@@ -19,10 +19,10 @@
 define('DB_NAME', 'trickdog_wor5184');
 
 /** MySQL database username */
-define('DB_USER', 'trickdog_wor5184');
+define('DB_USER', 'xxxxx');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'kiEQM9eEklRt');
+define('DB_PASSWORD', 'xxxxxxxxxx');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
